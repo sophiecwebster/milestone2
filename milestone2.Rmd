@@ -1,0 +1,14 @@
+---
+title: "Milestone 2"
+author: "Sophie Webster"
+date: "2/12/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Madeleine Snow's Analysis of Tony-Winning Theatre 
+
+As a Broadway aficinado myself (perhaps not to the degree of Maddie!), I really enjoyed this project. I think the central question was very 
